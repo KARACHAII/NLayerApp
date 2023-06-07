@@ -1,0 +1,7 @@
+https://localhost:7047/       api
+
+http://localhost:5105         api
+
+
+https://localhost:7202        Web
+http://localhost:5276         Web
